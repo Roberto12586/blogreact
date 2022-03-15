@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "La arquitectura, como la sanidad o la educación, nos afecta a todos. Puede también fascinarnos.",
+      "author": "Roberto Prado",
+      "content": "Since the beginning of the internet, millions and millions and millions of blogs have been created. Many have died due to lost interest or their owners giving up on the idea, while others have thrived and continue to grow, making money and earning their owners a steady income. It’s a constant evolution of content that keeps people coming back for more, especially if these blogs contact highly resourceful material that people find useful and interesting.",
+      "id": 2
+    },
+    {
+      "title": "Historias diferentes contadas por nuestros corresponsales",
+      "content": "fwedwe",
+      "author": "Roberto Prado",
+      "id": 3
+    },
+    {
+      "title": "La opinión de los expertos de Afi sobre la actualidad financiera",
+      "content": "fargrqewfqweswqedfwdasf",
+      "author": "Roberto Prado",
+      "id": 4
+    }
+  ]
+}
